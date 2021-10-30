@@ -5,5 +5,5 @@ Welcome All!  Yes BurnSoft.net was selling software for over 20 years until the 
 
 ## Products
 
-| (My Gun Collection)[mgc.md] |
+| [My Gun Collection](mgc.md) |
 |:--|:--|

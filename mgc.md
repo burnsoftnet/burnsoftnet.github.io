@@ -6,7 +6,7 @@ The My Gun Collection (MGC) application was create back in 2007 to help manage y
 
      Over all, whether or not you have a huge gun collection or just a few firearms on hand, this application can help you keep track of useful information for your own personal gain, and even BATFE standards for reports and record keeping. 
      
-| Direct Download | (Download Now)[https://github.com/burnsoftnet/MyGunCollection/releases/download/v6.5/BSMyGunCollection_Setup.msi] |
+| Direct Download | [Download Now](https://github.com/burnsoftnet/MyGunCollection/releases/download/v6.5/BSMyGunCollection_Setup.msi) |
 |:--|:--|
-| Repo | (Github Repo)[https://github.com/burnsoftnet/MyGunCollection] |
-| Main Page | (public site)[https://www.burnsoft.net]  |     
+| Repo | [Github Repo](https://github.com/burnsoftnet/MyGunCollection) |
+| Main Page | [public site](https://www.burnsoft.net)  |     
