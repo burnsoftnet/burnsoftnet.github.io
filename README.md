@@ -16,3 +16,5 @@ Welcome All!  Yes BurnSoft.net was selling software for over 20 years until the 
 |:--|
 | [My Gun Collection](mgc.md) |
 | [My Loaders Log](mll.md) |
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
