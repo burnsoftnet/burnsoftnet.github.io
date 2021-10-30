@@ -3,7 +3,15 @@ General Profile for burnsoft/ Joe M. and public projects and things for sale, be
 
 Welcome All!  Yes BurnSoft.net was selling software for over 20 years until the beginning of 2021 were it was decided to move everything to Open Source and all the Windows and Apple programs will now be released for free and the projects available for Open Source.  This was just a tactical decision to help keep software that people are using available for a long time even after we are gone.
 
+## General Links
+
+- [gitHub Repositories](https://github.com/burnsoftnet?tab=repositories)
+- [Public Website](https://www.burnsoft.net)
+- [Arduino Project](https://create.arduino.cc/projecthub/burnsoft)
+- [Thingiverse Projects](https://www.thingiverse.com/burnsoft/designs)
+
 ## Products
 
+| Windows |
+|:--|
 | [My Gun Collection](mgc.md) |
-|:--|:--|
