@@ -1,5 +1,5 @@
 [ <-- home](README.md)
-# About www.burnsoft.net
+# ![logo](img/BSLogo_32x32.png) About www.burnsoft.net
  
  When we first started it was suppose to be just a software company, over time our services included: creating a custom application based on the users needs, web pages, web applications, hosting, database administration and solutions, monitoring solutions, communication solutions (LAN,WAN, WiFi, etc), Custom PC, User Support and server solutions. 
 
