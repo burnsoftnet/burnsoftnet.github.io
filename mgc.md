@@ -7,10 +7,14 @@ Print out reports such as: BATFE C&R (Curio and Relic) Bound Book Report, Quick 
 
 Over all, whether or not you have a huge gun collection or just a few firearms on hand, this application can help you keep track of useful information for your own personal gain, and even BATFE standards for reports and record keeping.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zEmtlcdnPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**NOTE:  The GitHub Repo will contain the release notes and Bug and Enhancements, so if you want to see what is going on with the application and what will be fixed or added in the future, that will be the place to go.**
+
 ###Links
 
 | Description | Link |     
 |:--|:--|
 | Direct Installer Download | [Download Now](https://github.com/burnsoftnet/MyGunCollection/releases/download/v6.5/BSMyGunCollection_Setup.msi) |
 | Github Repo | [Go to site](https://github.com/burnsoftnet/MyGunCollection) |
-| Main Page | [Go to site](https://www.burnsoft.net)  |     
+| Main Page | [Go to site](https://www.burnsoft.net/Pages/products?id=104)  |     
