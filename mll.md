@@ -10,3 +10,13 @@ NOTE: Version 1 was released for Metallic reloading (Rifle & Pistols) only, the 
 NOTE: Updates to this application are Free!! So it's just a 1 time payment for this program. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XWi83SQ2vKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**NOTE:  The GitHub Repo will contain the release notes and Bug and Enhancements, so if you want to see what is going on with the application and what will be fixed or added in the future, that will be the place to go.**
+
+###Links
+
+| Description | Link |     
+|:--|:--|
+| Direct Installer Download | [Download Now](https://github.com/burnsoftnet/MyLoadersLog/releases/download/v2.5.0.0/BSMyLoadersLog_Setup.msi) |
+| Github Repo | [Go to site](https://github.com/burnsoftnet/MyLoadersLog) |
+| Main Page | [Go to site](https://www.burnsoft.net/Pages/products?id=108)  | 
