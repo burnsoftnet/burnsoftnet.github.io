@@ -10,6 +10,7 @@ Welcome All!  Yes BurnSoft.net was selling software for over 20 years until the 
 - [Thingiverse Projects](https://www.thingiverse.com/burnsoft/designs)
 - [About BurnSoft.net](about.md)
 - [About the Developer](aboutjm.md)
+- [Youtube Videos](https://www.youtube.com/channel/UC-GfNe4DNRmmSp93CnHBBMQ)
 
 ## Products
 
