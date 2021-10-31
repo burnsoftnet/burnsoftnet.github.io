@@ -1,40 +1,84 @@
 
-# Chapter 02: The Common Tags
+# Chapter 03: More Common Tags
 
-Headings are some of the most important tags within the BODY of your HTML document. You will usually use a heading to tell what the following section of your page is about. The opening tag for a heading is <hy> and the closing tag is </hy> with y being the size of the heading... from 1 to 6. (1 being largest, and 6 being smallest)
+You will often use paragraphs in HTML, just as you do when you write stories. The opening tag for a paragraph is <p>, and the closing tag is </p>. The closing tag for a paragraph is not always needed, but I recommend using it anyway.
 
-Example of heading tags...
-H1: Bob fell over the chicken.
-<h1>H1: Bob fell over the chicken.</h1>
+Example of a paragraph...
 
-H2: Bob fell over the chicken.
-<h2>H2: Bob fell over the chicken.</h2>
+Bob starts to chase the chicken around. Bob trips over a string and goes flying into the pig's mud pit! eww! What a pity!
+<p>Bob starts to chase the chicken around. Bob trips over a string and goes flying into the pig's mud pit! eww! What a pity!</p>
 
-H3: Bob fell over the chicken.
-<h3>H3: Bob fell over the chicken.</h3>
+Text Formatting Properties...
 
-H4: Bob fell over the chicken.
-<h4>H4: Bob fell over the chicken.</h4>
+If you had an entire web page without formatted text, it would look rather dull and boring. This is why we use text formatting tags. Some common text formatting tags are:
+<b> and </b> for bold,
+<i> and </i> for italics,
+<u> and </u> for underlined, and
+<tt> and </tt> for typewriter.
 
-H5: Bob fell over the chicken.
+Text Formatting Properties...Font Tags
 
-<h5>H5: Bob fell over the chicken.</h5>
+The <font size=n> and </font> tags come in handy.
+n is the number of font points by which to change the size of the current font. 
+n can be positive or negative: a positive number will increase the font size, and a negative number will decrease it.
+n can also be an absolute number, indicating an absolute size for the font (not a relative size).
 
-H6: Bob fell over the chicken.
+Example of font tags...
 
-<h6>H6: Bob fell over the chicken.</h6>
+Bob is a Cool Guy isn't he?
 
-Horizontal Ruled Lines...
+<font size=+1>Bob</font> <font size=+2>is</font> <font size=+3>a</font> <font size+2>Cool</font> <font size=+1>Guy</font> isn't <font size=-1>he?</font>
 
-Horizontal Ruled Lines are used to separate different areas of a web page. The tag for a horizontal ruled line is <hr>. The horizontal ruled line DOES NOT have a closing tag. You may also add certain attributes to the <hr> tag, such as WIDTH=n (for fixed pixel width) or WIDTH=n% for a certain percentage of the screen wide, SIZE=n to make the line a certain pixel amount thick, and NOSHADE to turn the line's shading off. A plain <hr> with no attributes will make the line the full width of the screen.
+ALIGN attributes...
 
-Example of horizontal ruled lines...
-<hr width=50>
-<hr width=50%>
-<hr size=7>
-<hr noshade>
+Many tags support ALIGN attributes... if you want something to be aligned from the left margin, from the center, or from the right margin. The ALIGN attribute is placed in the opening tag before the >.
+Left Align
+<h1 align=left>Left Align</h1>
+Center Align
+<h1 align=center>Center Align</h1>
+Right Align
+<h1 align=right>Right Align</h1>
+The Line Break...
 
-You may also use several attributes within one tag...
-<hr width=50% size=10 noshade> 
+When your HTML document is viewed, normally the text will do a word-wrap at the end of a line. If you want to have the text BREAK (go to another line) you will use the <br> tag. This tag has no closing tag.
 
-[Chapter 03](kb3.md)
+Example WITHOUT line Break...
+
+Sentence One. Sentence Two. Sentence Three.
+
+Sentence One.
+Sentence Two.
+Sentence Three.
+
+Example WITH line Break...
+
+Sentence One.
+Sentence Two.
+Sentence Three.
+
+Sentence One.<br>
+Sentence Two.<br>
+Sentence Three.<br>
+Preformatted Text...
+
+If you wish to have text line up properly (a.k.a. fixed width text) that will include line breaks without the use of the <br> you may find the <pre> and </pre> tags helpful.
+
+Example of text WITHOUT preformatting...
+
+The cat ran after the dog. ^ ^-verb ^noun ^-noun 
+ The cat ran after the dog.
+    ^   ^-verb        ^noun
+    ^-noun
+
+HTML ignores the extra line breaks, so the text does not line up properly.
+Example of text WITH preformatting...
+
+The cat ran after the dog.
+    ^   ^-verb        ^noun
+    ^-noun
+
+ <pre>
+The cat ran after the dog.
+    ^   ^-verb        ^noun
+    ^-noun
+</pre>
