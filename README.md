@@ -12,7 +12,7 @@ Welcome All!  Yes BurnSoft.net was selling software for over 20 years until the 
 
 - [gitHub Repositories](https://github.com/burnsoftnet?tab=repositories)
 - [Public Website](https://www.burnsoft.net)
-- [Arduino Project](https://create.arduino.cc/projecthub/burnsoft)
+- [Arduino Project](https://projecthub.arduino.cc/burnsoft)
 - [Thingiverse Projects](https://www.thingiverse.com/burnsoft/designs)
 - [About BurnSoft.net](about.md)
 - [About the Developer](aboutjm.md)
