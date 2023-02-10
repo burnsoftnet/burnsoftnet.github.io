@@ -18,11 +18,12 @@ Writing software professionally since 1998, in the IT Business since 1996.
 
 ## Discount Codes for Sponsered Products:
 
-[www.aimcam.com](www.aimcam.com) - JOEM. 10% Off
-[www.shooting-soft.com](www.shooting-soft.com) - JOEMKY  15% off 
-[www.dryfireonline.com](www.dryfireonline.com) - JOEM   1 Month free  
-[www.iDryFire.com](www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
-[www.laser-ammo.com](www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until May 2023
+* [www.aimcam.com](www.aimcam.com) - JOEM. 10% Off
+* [www.shooting-soft.com](www.shooting-soft.com) - JOEMKY  15% off 
+* [www.dryfireonline.com](www.dryfireonline.com) - JOEM   1 Month free  
+* [www.iDryFire.com](www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
+* [www.laser-ammo.com](www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until May 2023
 
+### Optional
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
