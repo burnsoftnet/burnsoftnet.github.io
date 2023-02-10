@@ -5,9 +5,18 @@ General Profile for burnsoft/ Joe M. and public projects and things for sale, be
 
 Writing software professionally since 1998, in the IT Business since 1996. 
 
-Also Competitive Shooter for USPSA, IDPA, Steel Challenge, NRA F-Class, PRS, and 3 Gun.  Check out these [You Tube](https://jm.myguncollection.net) to view the matches and reviews of gun related products.
+## Competitive Shooter in the following disciplines:
 
-Discount Codes for Sponsered Products:
+* USPSA - Production C Class, Carry Optics U Class, Open C Class, Single Stack D Class, PCC U Class, and Limited C Class.
+* 3 Gun - Open, Tac Optics, Tac Irons
+* IDPA - SSP MM, CDP. - Novice, CO - MM, ESP - MM
+* NRA High Power - Marksmen
+* NRA F-Class - Marksman
+* NLR22 Base - Amateur
+* Steel Challenge - RFRI C Class, RFPI C Class, RFOP C Class, RFOR B Class, Open B Class, PCC B Class
+* PRS - Amateur
+
+## Discount Codes for Sponsered Products:
 
 [www.aimcam.com](www.aimcam.com) - JOEM. 10% Off
 [www.shooting-soft.com](www.shooting-soft.com) - JOEMKY  15% off 
