@@ -3,7 +3,17 @@
 
 General Profile for burnsoft/ Joe M. and public projects and things for sale, besides his soul ( because you can't sell what you are only renting ).
 
-Writing software professionally since 1998, in the IT Business since 1996. Also Competitive Shooter for USPSA, IDPA, Steel Challenge, NRA F-Class, PRS, and 3 Gun.  Check out these [You Tube](https://jm.myguncollection.net) to view the matches and reviews of gun related products.
+Writing software professionally since 1998, in the IT Business since 1996. 
+
+Also Competitive Shooter for USPSA, IDPA, Steel Challenge, NRA F-Class, PRS, and 3 Gun.  Check out these [You Tube](https://jm.myguncollection.net) to view the matches and reviews of gun related products.
+
+Discount Codes for Sponsered Products:
+
+[www.aimcam.com](www.aimcam.com) - JOEM. 10% Off
+[www.shooting-soft.com](www.shooting-soft.com) - JOEMKY  15% off 
+[www.dryfireonline.com](www.dryfireonline.com) - JOEM   1 Month free  
+[www.iDryFire.com](www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
+[www.laser-ammo.com](www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until May 2023
 
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
