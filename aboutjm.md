@@ -16,6 +16,8 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * Steel Challenge - RFRI C Class, RFPI C Class, RFOP C Class, RFOR B Class, Open B Class, PCC B Class
 * PRS - Amateur
 
+![logo](img/jm.png)
+
 ## Discount Codes for Sponsered Products:
 
 * [www.aimcam.com](www.aimcam.com) - JOEM. 10% Off
@@ -23,6 +25,8 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * [www.dryfireonline.com](www.dryfireonline.com) - JOEM   1 Month free  
 * [www.iDryFire.com](www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
 * [www.laser-ammo.com](www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until May 2023
+
+![logo](img/discounts.png)
 
 ### Optional
 
