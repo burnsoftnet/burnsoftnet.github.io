@@ -7,7 +7,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 
 ## Competitive Shooter in the following disciplines:
 
-* USPSA - Production C Class, Carry Optics B Class, Open C Class, Single Stack D Class, PCC U Class, and Limited C Class.
+* USPSA - Production C Class, Carry Optics B Class, Open C Class, Single Stack C Class, PCC U Class, and Limited C Class.
 * 3 Gun - Open, Tac Optics, Tac Irons
 * IDPA - SSP MM, CDP. - Novice, CO - MM, ESP - MM
 * NRA High Power - Marksmen
