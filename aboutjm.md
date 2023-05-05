@@ -28,7 +28,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * [www.dryfireonline.com](www.dryfireonline.com) - JOEM   1 Month free  
 * [www.iDryFire.com](www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
 * [www.laser-ammo.com](www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until October 15th 2023
-* [https://coolfiretrainer.com] ( CoolFireTrainer.com ) - JOE30   $30 off any purchase of any product manufactured by CoolFire.
+* [https://coolfiretrainer.com](CoolFireTrainer.com) - JOE30   $30 off any purchase of any product manufactured by CoolFire.
 
 
 
