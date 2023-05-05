@@ -23,7 +23,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 
 ## Discount Codes for Sponsered Products:
 
-* [www.aimcam.com][www.aimcam.com] - JOEM. 10% Off
+* [www.aimcam.com](https://www.aimcam.com) - JOEM. 10% Off
 * [www.shooting-soft.com](www.shooting-soft.com) - JOEMKY  15% off 
 * [www.dryfireonline.com](www.dryfireonline.com) - JOEM   1 Month free  
 * [www.iDryFire.com](www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
