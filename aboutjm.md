@@ -19,7 +19,6 @@ Writing software professionally since 1998, in the IT Business since 1996.
 
 [YouTube](http://jm.myguncollection.net)
 
-![logo](img/jm.png)
 
 ## Discount Codes for Sponsered Products:
 
