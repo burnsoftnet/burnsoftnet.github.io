@@ -17,7 +17,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * PRS - Amateur
 
 
-[YouTube](http://jm.myguncollection.net)
+[YouTube](http://jm.myguncollection.net) - Video's of Matches and Reviews
 
 
 ## Discount Codes for Sponsered Products:
