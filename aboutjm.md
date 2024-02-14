@@ -27,7 +27,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * [www.shooting-soft.com](https://www.shooting-soft.com) - JOEMKY  15% off 
 * [www.dryfireonline.com](https://www.dryfireonline.com) - JOEM   1 Month free  
 * [www.iDryFire.com](https://www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
-* [www.laser-ammo.com](https://www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until October 15th 2023
+* [www.laser-ammo.com](https://www.laser-ammo.com) - JOEMKY   10% off except for packages and magazines good Until October 2024
 * [CoolFireTrainer.com](https://coolfiretrainer.com) - JOE30   $30 off any purchase of any product manufactured by CoolFire.
 * [NextLevelTraning](http://www.nextleveltraining.com/) - sirt10  10% off all products on site
 
