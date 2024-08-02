@@ -35,7 +35,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 
 ## Information Technology
 
-Programming since 1996, professionally since 1998 along with other sections in Information Technology since 1998.   
+Programming since 1996, professionally since 1998 along with other sections in Information Technology since 1997.   
 [Linked In Profile](www.linkedin.com/in/joemireles-ky)
 
 * Web Design using HTML, CSS, ASP and ASP.NET from 1998 to 2008.  
