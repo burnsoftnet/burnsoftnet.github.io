@@ -1,5 +1,7 @@
-Welcome to the BurnSoft Wiki!
-
+---
+sort: 3
+---
+# BurnSoft Wiki!
 
 
 The BurnSoft Wiki was created to replace the BurnSoft Knowledge Base and the Learning Center Sites that we had. For years BurnSoft has created both freeware and share application, but since the freeware lacked help files, some users were a little lost on how to use the application. Hopefully we can document some of the freeware application that we currently have and additional information for our shareware applications as well. 
@@ -14,5 +16,6 @@ The Learning Center was created over 7 years ago to help others with tips, trick
 	- [VB.NET](vbnet/README.md)
 	- [HTML](html/README.md)
 
+{% include list.liquid all=true %}
 
 
