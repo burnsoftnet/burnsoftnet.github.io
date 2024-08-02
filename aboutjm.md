@@ -9,13 +9,13 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * USPSA - Production C Class, Carry Optics B Class, Open C Class, Single Stack C Class, PCC U Class, and Limited C Class.
 * 3 Gun - Open, Tac Optics, Tac Irons
 * IDPA - SSP - Marksman, CDP - Marksman, CO - Marksman, ESP - Marksman
-* NRA High Power - Marksmen
+* NRA High Power - Marksman
 * NRA F-Class - Marksman
 * NLR22 Base - Amateur
 * Steel Challenge - RFRI C Class, RFPI C Class, RFOP B Class, RFOR B Class, Open B Class, PCC B Class, Carry Optics C Class
 * PRS - Amateur
 * GSSF - Amateur Civilian
-* SHOOT SIG
+* SHOOT SIG - N/A No rating System Yet
 
 
 [YouTube](http://jm.myguncollection.net) - Video's of Matches and Reviews

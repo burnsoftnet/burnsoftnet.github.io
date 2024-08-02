@@ -4,7 +4,7 @@ The My Essential Oil Remedies iOS application was created to help store your ess
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqGO7gZk9wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###Links
+### Links
 
 | Description | Link |     
 |:--|:--|

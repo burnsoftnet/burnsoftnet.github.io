@@ -10,7 +10,7 @@ Over all, whether or not you have a huge gun collection or just a few firearms o
 
 **NOTE:  The GitHub Repo will contain the release notes and Bug and Enhancements, so if you want to see what is going on with the application and what will be fixed or added in the future, that will be the place to go.**
 
-###Links
+### Links
 
 | Description | Link |     
 |:--|:--|
