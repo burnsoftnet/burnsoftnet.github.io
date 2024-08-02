@@ -12,12 +12,12 @@ NOTE: Updates to this application are Free!! So it's just a 1 time payment for t
 
 **NOTE:  The GitHub Repo will contain the release notes and Bug and Enhancements, so if you want to see what is going on with the application and what will be fixed or added in the future, that will be the place to go.**
 
-###Links
+### Links
 
 | Description | Link |     
 |:--|:--|
 | Direct Installer Download | [Download Now](https://github.com/burnsoftnet/MyLoadersLog/releases/download/v2.5.0.0/BSMyLoadersLog_Setup.msi) |
 | Github Repo | [Go to site](https://github.com/burnsoftnet/MyLoadersLog) |
-| Main Page | [Go to site](https://www.burnsoft.net/Pages/products?id=108)  | 
+| Main Page | TBD  | 
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
