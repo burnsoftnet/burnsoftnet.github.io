@@ -16,6 +16,6 @@ Over all, whether or not you have a huge gun collection or just a few firearms o
 |:--|:--|
 | Direct Installer Download | [Download Now](https://github.com/burnsoftnet/MyGunCollection/releases/download/v6.5/BSMyGunCollection_Setup.msi) |
 | Github Repo | [Go to site](https://github.com/burnsoftnet/MyGunCollection) |
-| Main Page and Online help | [Go to site](https://www.myguncollection.net)  |     
+| Main Page and Online help | [Go to site](http://www.myguncollection.net)  |     
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]

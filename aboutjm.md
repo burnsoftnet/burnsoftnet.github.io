@@ -33,7 +33,21 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * [NextLevelTraning](http://www.nextleveltraining.com/) - sirt10  10% off all products on site
 
 
+## Information Technology
+
+Programming since 1996, professionally since 1998 along with other sections in Information Technology since 1998.   
+[Linked In Profile](www.linkedin.com/in/joemireles-ky)
+
+* Web Design using HTML, CSS, ASP and ASP.NET from 1998 to 2008.  
+* Computer Repair 1997 - 2008
+* Network Installation, Administration and Design from 1998 - 2008
+* System Automation and Monitoring from 2000 - 2017
+* Test Automation using Custom Code, Appium, Selenium, Robot Framework from 2017 - Current
+* Programming Languages used since 1996: Pascal, C, C++, BASIC, VB, VB.NET, VBScript, Python, Shell Script, PowerShell, C#, ASP.NET, Objective-C, Swift, Python, Sumit Basic, Batch Script, Angular, Arduino, and T-SQL
+
 
 ### Optional
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
+
+
