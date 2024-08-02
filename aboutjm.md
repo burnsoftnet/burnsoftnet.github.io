@@ -1,4 +1,3 @@
-[ <-- home](README.md)
 # ![logo](img/BSLogo_32x32.png) About the Main Developer
 
 General Profile for burnsoft/ Joe M. and public projects and things for sale, besides his soul ( because you can't sell what you are only renting ).

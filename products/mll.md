@@ -1,4 +1,3 @@
-[ <-- home](README.md)
 # My Loaders Log
 
 The My Loaders Log (MLL) application was created to help get rid of all the paper work of different logs in a binder and having to look through a collection of reloading manuals to just to find how much powder was used of a certain kind of powder for a certain kind of bullet. With reloading, once you find your groove, the entire process doesn’t take that long as compared to when you first started, why shouldn’t it be the same for looking up information? 
