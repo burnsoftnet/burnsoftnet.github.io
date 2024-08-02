@@ -1,6 +1,6 @@
 # ![logo](img/BSLogo_32x32.png) About the Main Developer
 
-General Profile for burnsoft/ Joe M. and public projects and things for sale, besides his soul ( because you can't sell what you are only renting ).
+General Profile for Joe M. and public projects and things for sale, besides his soul ( because you can't sell what you are only renting ).
 
 Writing software professionally since 1998, in the IT Business since 1996. 
 
@@ -21,14 +21,14 @@ Writing software professionally since 1998, in the IT Business since 1996.
 [YouTube](http://jm.myguncollection.net) - Video's of Matches and Reviews
 
 
-## Discount Codes for Sponsered Products:
+## Discount Codes for Sponsored Products:
 
 * [www.aimcam.com](https://www.aimcam.com) - JOEM. 10% Off
 * [iMarksman](https://shop.imarksman.com?sca_ref=5436689.9SY6P4XwZx) - JOE10  10% all systems and addon software
 * [www.shooting-soft.com](https://www.shooting-soft.com) - JOEMKY  15% off 
 * [www.dryfireonline.com](https://www.dryfireonline.com) - JOEM   1 Month free  
 * [www.iDryFire.com](https://www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
-* [www.laser-ammo.com](https://www.laser-ammo.com) - JOEMKYYT   10% off except for packages and magazines
+* [www.laser-ammo.com](https://www.laser-ammo.com) - JOEMir10   10% off except for packages and magazines
 * [CoolFireTrainer.com](https://coolfiretrainer.com) - JOE30   $30 off any purchase of any product manufactured by CoolFire.
 * [NextLevelTraning](http://www.nextleveltraining.com/) - sirt10  10% off all products on site
 
