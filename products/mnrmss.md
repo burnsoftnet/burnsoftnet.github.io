@@ -1,5 +1,5 @@
 [ <-- home](README.md)
-# ![logo](img/BSLogo_32x32.png) My NRA Rifle Match Score Sheet
+# My NRA Rifle Match Score Sheet
 
 The My NRA Rifle Match Score Sheet was created to allow you to keep track of your own results to see if you have been making any progress or if you just had an off day.
 Depending on how the match is ran, you might be taking score as it happens from a distance or you might have to walk out to your target and write down your results.
