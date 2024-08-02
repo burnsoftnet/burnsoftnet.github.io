@@ -7,3 +7,4 @@ General HTML tips from before HTML5
 - [](kb1.md)
 - [](kb2.md)
 
+% include list.liquid all=true %}
