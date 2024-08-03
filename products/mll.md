@@ -18,6 +18,6 @@ NOTE: Updates to this application are Free!! So it's just a 1 time payment for t
 |:--|:--|
 | Direct Installer Download | [Download Now](https://github.com/burnsoftnet/MyLoadersLog/releases/download/v2.5.0.0/BSMyLoadersLog_Setup.msi) |
 | Github Repo | [Go to site](https://github.com/burnsoftnet/MyLoadersLog) |
-| Main Page & Online Help | [Go to Site](https://burnsoftnet.github.io/MyLoadersLog/)  | 
+| Main Page & Online Help | [Go to Site](http://www.myloaderslog.com)  | 
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
