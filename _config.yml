@@ -3,30 +3,14 @@ description: [Open Source Applications for the world to play with!]
 
 theme: null
 
-# debug:
-#   compress: true
-#   dist: false
-#   shortcodes: true
-
 readme_index:
   with_frontmatter: true
 
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+show_downloads: True
 
-exclude:
-  - Makefile
-  - CNAME
-  - LICENSE
-  - update.sh
-  - Gemfile
-  - Gemfile.lock
-  - requirements.txt
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - jekyll-rtd-theme.gemspec
+
+  
   
