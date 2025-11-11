@@ -1,4 +1,5 @@
-theme: jekyll-theme-leap-day
-title: BurnSoft.Net
-description: Open Source Applications for the world to play with!
+title: [BurnSoft.Net]
+description: [Open Source Applications for the world to play with!]
 show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
