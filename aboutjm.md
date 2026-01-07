@@ -12,7 +12,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 
 * USPSA - Production C Class, Carry Optics B Class, Open C Class, Single Stack C Class, PCC U Class, and Limited C Class.
 * 3 Gun - Open, Tac Optics, Tac Irons
-* IDPA - SSP - Marksman, CDP - Marksman, CO - Marksman, ESP - Marksman
+* IDPA - SSP - Marksman, CDP - Marksman, CO - SharpShooter, ESP - Marksman
 * NRA High Power - Marksman
 * NRA F-Class - Marksman
 * NLR22 Base - Amateur
@@ -32,7 +32,7 @@ Writing software professionally since 1998, in the IT Business since 1996.
 * [www.shooting-soft.com](https://www.shooting-soft.com) - JOEMKY  15% off 
 * [www.dryfireonline.com](https://www.dryfireonline.com) - JOEM   1 Month free  
 * [www.iDryFire.com](https://www.iDryFire.com) - JOE25    25% off Clip-N-Shoot and laser cartridges
-* [www.laser-ammo.com](https://www.laser-ammo.com) - MirelesYT   10% off except for packages and magazines
+* [www.laser-ammo.com](https://www.laser-ammo.com) - JoeMirelesYT   10% off except for packages and magazines
 * [CoolFireTrainer.com](https://coolfiretrainer.com) - JOE30   $30 off any purchase of any product manufactured by CoolFire.
 * [NextLevelTraning](http://www.nextleveltraining.com/) - sirt10  10% off all products on site
 
