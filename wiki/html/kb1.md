@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [<--Home](README.md)
 # Chapter 01: The Basics
 
@@ -80,3 +84,4 @@ Save the text file as "Home.htm".
 
 
 
+	

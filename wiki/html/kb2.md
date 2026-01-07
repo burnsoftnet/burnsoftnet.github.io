@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Chapter 03: More Common Tags
 

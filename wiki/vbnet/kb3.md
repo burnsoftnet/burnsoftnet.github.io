@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [<--Home](README.md)
 # Using the Command Line Arguments in your Application
 
