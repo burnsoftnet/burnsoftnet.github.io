@@ -1,6 +1,7 @@
 ---
-sort: 3
+layout: default
 ---
+
 # BurnSoft Wiki!
 
 

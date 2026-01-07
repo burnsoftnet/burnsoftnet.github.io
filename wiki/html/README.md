@@ -1,4 +1,7 @@
-[<--Home>(https://burnsoftnet.github.io/wiki/)
+---
+layout: default
+---
+
 # HTML
 
 General HTML tips from before HTML5

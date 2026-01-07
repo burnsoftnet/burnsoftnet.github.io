@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [<--Home](README.md)
 # Using Autorun for your CD or USB application Install
 

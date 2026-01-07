@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Changing Commas to Decimals
 
 ## Issue:

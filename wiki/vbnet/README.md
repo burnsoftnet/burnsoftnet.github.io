@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [<--Home>(https://burnsoftnet.github.io/wiki/)
 # Learning Center - VB.NET
 

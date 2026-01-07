@@ -2,122 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# ![logo](img/BSLogo_32x32.png) Welcome 
 
-[Link to another page](./another-page.html).
+Welcome All!  Yes BurnSoft.net was selling software for over 20 years until the beginning of 2021 were it was decided to move everything to Open Source and all the Windows and Apple programs will now be released for free and the projects available for Open Source.  This was just a tactical decision to help keep software that people are using available for a long time even after we are gone.
 
-There should be whitespace between paragraphs.
+## Site Links
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- [About BurnSoft.Net](about.md)
+- [About the Main Developer](aboutjm.md)
+- [Support](support.md)
 
-# Header 1
+## General Links
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- [gitHub Repositories](https://github.com/burnsoftnet?tab=repositories)
+- [Public Website](https://www.burnsoft.net)
+- [Arduino Project](https://projecthub.arduino.cc/burnsoft)
+- [Thingiverse Projects](https://www.thingiverse.com/burnsoft/designs)
+- [About BurnSoft.net](about.md)
+- [About the Developer](aboutjm.md)
+- [Youtube Videos](https://www.youtube.com/channel/UC-GfNe4DNRmmSp93CnHBBMQ)
 
-## Header 2
+## Products
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| Windows |
+|:--|
+| [My Gun Collection](products/mgc.md) |
+| [My Loaders Log](products/mll.md) |
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Apple - iOS & macOS |
+|:--|
+| [My Essential Oil Remedies](products/meor.md) |
+| [My NRA Rifle Match Score Sheet ](products/mnrmss.md) |
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]

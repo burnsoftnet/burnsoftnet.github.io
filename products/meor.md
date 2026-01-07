@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # My Essential Oil Remedies
 
 The My Essential Oil Remedies iOS application was created to help store your essential oils and Remedies. It will allow you to save oils details of oils that you have and don’t have. The ones that you don’t have are something you might have as a reference or something that you want later on. While viewing the oil details, you can also see which remedies have them listed.

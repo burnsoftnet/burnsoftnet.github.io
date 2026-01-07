@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Chapter 02: The Common Tags
 
