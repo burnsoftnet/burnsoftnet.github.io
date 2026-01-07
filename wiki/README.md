@@ -17,6 +17,5 @@ The Learning Center was created over 7 years ago to help others with tips, trick
 	- [VB.NET](vbnet/README.md)
 	- [HTML](html/README.md)
 
-{% include list.liquid all=true %}
 
 
